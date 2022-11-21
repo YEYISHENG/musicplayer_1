@@ -1,0 +1,141 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "LCD_E",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_RS",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_DATA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_DATA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_DATA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_DATA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_DATA[4]",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_DATA[5]",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_DATA[6]",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_DATA[7]",
+					"strict" : false
+				},
+				{
+					"name" : "order1_flag",
+					"strict" : false
+				},
+				{
+					"name" : "order2_flag",
+					"strict" : false
+				},
+				{
+					"name" : "music0_flag",
+					"strict" : false
+				},
+				{
+					"name" : "music1_flag",
+					"strict" : false
+				},
+				{
+					"name" : "music2_flag",
+					"strict" : false
+				},
+				{
+					"name" : "music3_flag",
+					"strict" : false
+				},
+				{
+					"name" : "volume1_flag",
+					"strict" : false
+				},
+				{
+					"name" : "volume2_flag",
+					"strict" : false
+				},
+				{
+					"name" : "volume3_flag",
+					"strict" : false
+				},
+				{
+					"name" : "volume4_flag",
+					"strict" : false
+				},
+				{
+					"name" : "volume5_flag",
+					"strict" : false
+				},
+				{
+					"name" : "speed1_flag",
+					"strict" : false
+				},
+				{
+					"name" : "speed2_flag",
+					"strict" : false
+				},
+				{
+					"name" : "speed3_flag",
+					"strict" : false
+				},
+				{
+					"name" : "play_flag",
+					"strict" : false
+				},
+				{
+					"name" : "pause_flag",
+					"strict" : false
+				},
+				{
+					"name" : "LED",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rst_n",
+					"strict" : false
+				},
+				{
+					"name" : "KEY1",
+					"strict" : false
+				},
+				{
+					"name" : "KEY2",
+					"strict" : false
+				},
+				{
+					"name" : "KEY4",
+					"strict" : false
+				},
+				{
+					"name" : "KEY3",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
